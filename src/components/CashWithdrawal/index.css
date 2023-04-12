@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.whiteCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blueCard {
+  background-color: #150b3e;
+  height: 66vh;
+  width: 66vw;
+  border-radius: 8px;
+  border-width: 0px;
+}
+.profile {
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 49px;
+  border-radius: 55px;
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 44px;
+}
+.name {
+  color: #c7d2fe;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 38px;
+}
+.x {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.bank-balance {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+}
+.your-balance {
+  color: #382f5a;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-size: 16px;
+}
+.withdraw {
+  color: #382f5a;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-size: 16px;
+}
